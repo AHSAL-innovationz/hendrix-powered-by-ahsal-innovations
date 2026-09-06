@@ -1,0 +1,16 @@
+{
+  "name": "hendrix-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "pnpm --filter apps/web dev",
+    "dev:mobile": "pnpm --filter apps/mobile start",
+    "build": "pnpm -w build",
+    "lint": "pnpm -w lint",
+    "test": "pnpm -w test"
+  }
+}
