@@ -1,0 +1,1 @@
+This file was added to provide the PR body and include the optional-features screenshot uploaded as a comment on PR #1. Paste the contents of PR_BODY.md into the PR description to update it with the full details and embedded image.
