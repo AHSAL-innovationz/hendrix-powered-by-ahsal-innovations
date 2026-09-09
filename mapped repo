@@ -1,0 +1,40 @@
+HENDRIX
+│
+├── IDENTITY
+│   └── Who is Hendrix?
+│
+├── PERSONA
+│   └── How does Hendrix behave?
+│
+├── COGNITION
+│   └── How does Hendrix reason?
+│
+├── MEMORY
+│   └── What does Hendrix retain?
+│
+├── AGENCY
+│   └── What can Hendrix decide/do?
+│
+├── PERCEPTION
+│   └── What can Hendrix see/hear?
+│
+├── WORLD MODEL
+│   └── What does Hendrix understand about its environment?
+│
+├── EMOTIONAL/AFFECTIVE MODEL
+│   └── How does internal state influence behavior?
+│
+├── TOOLS
+│   └── What can Hendrix operate?
+│
+├── ORCHESTRATION
+│   └── How are complex tasks executed?
+│
+├── LEARNING
+│   └── How does Hendrix improve?
+│
+├── EMBODIMENT
+│   └── How does Hendrix become visibly/verbally present?
+│
+└── GOVERNANCE
+    └── What controls autonomous behavior?
