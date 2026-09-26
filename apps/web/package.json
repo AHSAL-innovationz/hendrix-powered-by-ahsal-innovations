@@ -8,9 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^13.4.0",
+    "next": "^13.4.0",<<<<<<< dependabot/npm_and_yarn/react-19.2.8
+    "react": "^19.2.8",
+    "react-dom": "^18.2.0",
+=======
     "react": "^18.2.0",
     "react-dom": "^19.2.8",
+    main
     "swr": "^2.0.0",
     "ioredis": "^6.0.0",
     "rate-limiter-flexible": "^11.2.0",
